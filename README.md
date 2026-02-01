@@ -17,3 +17,5 @@ In Minnesota, the private PC model incentivizes prolonged conflict.
 ## 🚀 Getting Started
 1. Clone the repo: `git clone https://github.com/fayfayMN/PC-Audit-MN.git`
 2. Run the fee auditor: `python src/fair_share_calc.py`
+
+* **Labor-to-Fee Auditor:** Quantifies how many hours of manual labor are required to fund one hour of PC services.
